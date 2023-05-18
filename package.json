@@ -29,7 +29,7 @@
     "e2e": "ng e2e"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~15.2.1",
+    "@angular-devkit/build-angular": "~16.0.2",
     "@angular/cli": "~16.0.1",
     "@angular/compiler-cli": "~15.2.1",
     "@angular/language-service": "~15.2.1",
