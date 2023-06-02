@@ -50,7 +50,7 @@ jobs:
 
     - run: |
        make bootstrap
-       make release
+       make release/*
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
       env: "development@v1
