@@ -12,7 +12,7 @@
 
     "angular-in-memory-web-api": "0.16.0",
     "classlist.js": "1.1.20150312",
-    "jasmine-core": "5.0.1",
+    "jasmine-core": "5.1.0",
     "jasmine-marbles": "0.9.2",
     "rxjs": "7.8.0",
     "tslib": "2.6.0",
@@ -36,7 +36,7 @@
     "@types/jasmine": "~4.3.0",
     "@types/jasminewd2": "~2.0.3",
     "codelyzer": "^6.0.2",
-    "jasmine-core": "~5.0.0",
+    "jasmine-core": "~5.1.0",
     "jasmine-spec-reporter": "~7.0.0",
     "karma": "~6.4.1",
     "karma-chrome-launcher": "~3.2.0",
