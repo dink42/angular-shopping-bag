@@ -6,7 +6,7 @@
 
     "@angular/compiler": "17.0.3",
 
-    "@angular/platform-browser": "17.0.3",
+    "@angular/platform-browser": "17.0.4",
 
     "angular-in-memory-web-api": "0.17.0",
     "classlist.js": "1.1.20150312",
