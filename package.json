@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
 
-    "@angular/compiler": "17.0.9",
+    "@angular/compiler": "17.1.0",
 
     "@angular/platform-browser": "17.1.0",
 
