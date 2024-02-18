@@ -15,7 +15,7 @@
     "rxjs": "7.8.0",
     "tslib": "2.6.2",
     "web-animations-js": "^2.3.2",
-    "zone.js": "0.14.3"
+    "zone.js": "0.14.4"
   },
   "scripts": {
     "ng": "ng",
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~17.1.0",
-    "@angular/cli": "~17.1.0",
+    "@angular/cli": "~17.2.0",
     "@angular/compiler-cli": "~17.1.0",
     "@angular/language-service": "~17.2.1",
     "@types/node": "^20.2.5",
