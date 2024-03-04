@@ -4,28 +4,18 @@
 
   <a [title]="product.name + ' details'">
 
-  <h3> {{product.name}} </h3>
+    <h3> {{ product.description }} </h3>
   </a>
 
   <p *ngIf="product.description">
-  Desription: {{product.name}}
-</p>
+    Desription: {{ product.description }}
+  </p>
 
-<button (click)="share()">
-  Share
-</button>
+  <button (click)="share()">
+    Share
+  </button>
 
-<app-product-alert
-  [product]="product"
-  (notify)="onNotify()">
-</app-product-alert>
+  <app-product-alert [product]="product" (notify)="onNotify()">
+  </app-product-alert>
 
 </div>
-
-
-
-<!-- 
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
--->
